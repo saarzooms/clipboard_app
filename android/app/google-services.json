@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "862634440640",
+    "project_id": "clipboard-f2f4f",
+    "storage_bucket": "clipboard-f2f4f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:862634440640:android:25b767f18fe68e17c7ba25",
+        "android_client_info": {
+          "package_name": "com.allysoftsolutions.clipboard_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIDQ1LfdQW1giVv3J0YJVfNWdJcy7Il1I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:862634440640:android:021d30ee9246afb6c7ba25",
+        "android_client_info": {
+          "package_name": "com.example.clipboard"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIDQ1LfdQW1giVv3J0YJVfNWdJcy7Il1I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:862634440640:android:32014397a89882e6c7ba25",
+        "android_client_info": {
+          "package_name": "com.example.online_clipboard"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIDQ1LfdQW1giVv3J0YJVfNWdJcy7Il1I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
